@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-04-22T11:34:56.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="BBBZjWpU77poNlK_24rs" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-04-28T13:44:09.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ZA9cECnW5pRDgM3Rzq9H" version="24.2.5" type="device">
   <diagram name="Σελίδα-1" id="c0uzWA4KZ7GL6QyTbvXv">
-    <mxGraphModel dx="1017" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,8 +167,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6vYfxs9B-7xquveqUcep-35" value="Κατάλληλο Μύνημα Σφάλματος" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="727" y="50" width="100" height="80" as="geometry" />
+        <mxCell id="6vYfxs9B-7xquveqUcep-35" value="Κατάλληλο Μύνημα Σφάλματος (Μη Διαθ/τα Μεγέθους)" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="727" y="40" width="113" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6vYfxs9B-7xquveqUcep-36" value="Κουμπί &lt;br&gt;&quot;&amp;lt;&quot;" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="640" width="100" height="80" as="geometry" />
@@ -238,7 +238,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6vYfxs9B-7xquveqUcep-66" value="Κατάλληλο Μύνημα Σφάλματος" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6vYfxs9B-7xquveqUcep-66" value="Κατάλληλο Μύνημα Σφάλματος (Διαθ/τας)" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="520" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6vYfxs9B-7xquveqUcep-67" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.014;exitY=0.802;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#33FF33;entryX=0.871;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6vYfxs9B-7xquveqUcep-61" target="6vYfxs9B-7xquveqUcep-89" edge="1">
@@ -266,7 +266,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6vYfxs9B-7xquveqUcep-74" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0.32;entryY=0.966;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF00FF;" parent="1" target="6vYfxs9B-7xquveqUcep-35" edge="1">
+        <mxCell id="6vYfxs9B-7xquveqUcep-74" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0.343;entryY=0.914;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF00FF;" parent="1" target="6vYfxs9B-7xquveqUcep-35" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="720" y="170" as="sourcePoint" />
             <mxPoint x="670" y="160" as="targetPoint" />
@@ -280,7 +280,7 @@
         <mxCell id="6vYfxs9B-7xquveqUcep-75" value="Εμφάνισε" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="309" y="370" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6vYfxs9B-7xquveqUcep-76" value="Κατάλληλο Μύνημα Σφάλματος" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6vYfxs9B-7xquveqUcep-76" value="Κατάλληλο Μύνημα Σφάλματος (Μέγεθος)" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="370" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6vYfxs9B-7xquveqUcep-77" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.771;entryY=0.203;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;" parent="1" source="6vYfxs9B-7xquveqUcep-14" target="6vYfxs9B-7xquveqUcep-75" edge="1">
@@ -344,7 +344,7 @@
         <mxCell id="6vYfxs9B-7xquveqUcep-97" value="Μεταβίβασε" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="757.0000000000002" y="370" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6vYfxs9B-7xquveqUcep-98" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;strokeColor=#FF00FF;exitX=0.631;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6vYfxs9B-7xquveqUcep-35" edge="1">
+        <mxCell id="6vYfxs9B-7xquveqUcep-98" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;strokeColor=#FF00FF;exitX=0.582;exitY=1.043;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6vYfxs9B-7xquveqUcep-35" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="730" y="180" as="sourcePoint" />
             <mxPoint x="792" y="370" as="targetPoint" />

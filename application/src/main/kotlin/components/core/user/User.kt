@@ -1,4 +1,4 @@
-package wtw.wtw.components.core
+package wtw.wtw.components.core.user
 
 import wtw.wtw.lib.Status
 

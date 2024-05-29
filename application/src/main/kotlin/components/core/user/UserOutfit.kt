@@ -1,8 +1,9 @@
 package wtw.wtw.components.core.user
 
 import java.util.Date
+import wtw.wtw.components.core.shared.Outfit
 
-class UserOutfit(private val postId: Int, private val userId: Int) {
+class UserOutfit(private val postId: Int, private val userId: Int, private val id: Int) : Outfit(id) {
     private var timestamp: Date = Date()
 
     private var likes: Likes = Likes()

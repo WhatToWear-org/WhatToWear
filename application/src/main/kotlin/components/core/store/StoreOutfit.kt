@@ -1,6 +1,8 @@
 package wtw.wtw.components.core.store
 
-class StoreOutfit(private val outfitStoreId: Int) {
+import wtw.wtw.components.core.shared.Outfit
+
+class StoreOutfit(private val storeId: Int, private val id: Int): Outfit(id) {
     private var name: String = ""
     private var description: String = ""
 
@@ -8,8 +10,8 @@ class StoreOutfit(private val outfitStoreId: Int) {
     private var stock: Int = 0
     private var sizes: Array<Float> = arrayOf()
 
-    fun getOutfitStoreId(): Int {
-        return outfitStoreId
+    fun getStoreId(): Int {
+        return storeId
     }
 
     fun getName(): String {
